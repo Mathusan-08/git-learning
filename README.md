@@ -1,6 +1,6 @@
 # Git Learning
 
-This repository is for learning Git and GitHub.
+This repository documents my hands-on Git and GitHub learning.
 
 Created as part of my Git learning journey.
 
