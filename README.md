@@ -1,6 +1,6 @@
 # Git Learning
 
-This repository documents my hands-on Git and GitHub learning.
+This repository documents my hands-on practice with Git workflows and GitHub collaboration.
 
 Created as part of my Git learning journey.
 
