@@ -17,3 +17,7 @@ Created as part of my Git learning journey.
 - Working with GitHub remotes
 - Pushing local commits to GitHub
 - Creating and switching branches
+
+## Pull Request Practice
+
+This section was developed on a feature branch and merged through a GitHub pull request.
